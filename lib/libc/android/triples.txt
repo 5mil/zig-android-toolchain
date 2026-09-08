@@ -1,0 +1,5 @@
+# Zig triple <tab> NDK GNU triple <tab> ABI dir <tab> default API
+aarch64-linux-android	aarch64-linux-android	arm64-v8a	29
+arm-linux-androideabi	arm-linux-androideabi	armeabi-v7a	29
+x86_64-linux-android	x86_64-linux-android	x86_64	29
+i686-linux-android	i686-linux-android	x86	29

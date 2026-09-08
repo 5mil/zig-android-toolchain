@@ -1,0 +1,9 @@
+# Template. Run tools/gen-android-libc.zig to fill paths.
+# Proposed extra key: sys_lib_dir
+include_dir=@INCLUDE_DIR@
+sys_include_dir=@SYS_INCLUDE_DIR@
+crt_dir=@CRT_DIR@
+sys_lib_dir=@SYS_LIB_DIR@
+gcc_dir=
+msvc_lib_dir=
+kernel32_lib_dir=
